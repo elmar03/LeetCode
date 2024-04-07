@@ -1,4 +1,4 @@
-package org.example.solutions;
+package org.example.solutions.easy;
 
 public class lengthOfLastWord {
     public int lastWord(String s) {

@@ -1,4 +1,4 @@
-package org.example.solutions;
+package org.example.solutions.easy;
 
 public class firstOccurrence {
     public int strStr(String haystack, String needle) {
